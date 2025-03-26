@@ -15,6 +15,20 @@ The dataset used for training and testing the sentiment analysis model can be fo
 - **Real-time Analysis:** Can analyze live tweets for sentiment.
 - **Visualization:** Displays sentiment distribution and key insights using plots.
 
+##Usage
+Run the Jupyter Notebook:
+
+sh
+Copy
+Edit
+jupyter notebook Sentiment Analysis.ipynb
+Or execute the Python script:
+
+sh
+Copy
+Edit
+python sentiment_analysis.py
+
 ## Installation
 
 Clone the repository:
@@ -22,3 +36,6 @@ Clone the repository:
 ```sh
 git clone https://github.com/yourusername/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
+
+
+
